@@ -8,6 +8,8 @@
   border-bottom: 1px ridge;
   min-height: 400px; }
 
+  
+
 .footer {
   background-color: #D1C4E9;
   margin: 0px auto;
@@ -51,3 +53,15 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+.modal-header {
+  background: #512DA8; }
+
+.modal-title {
+  color: floralwhite; }
+
+.modal-body {
+  background: #D1C4E9; }
+
+.close {
+  color: #D1C4E9; }
